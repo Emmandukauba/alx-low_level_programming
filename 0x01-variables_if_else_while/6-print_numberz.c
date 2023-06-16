@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints different numbers.
+ * main - how to print different numbers in c programming
  *
  * Return: Always 0 (Success)
  */
