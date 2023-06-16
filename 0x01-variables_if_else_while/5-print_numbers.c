@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints numbers from 0 to 9.
+ * main - print numbers 0 to 9 for me to count.
  *
  * Return: Always 0 (Success)
  */
